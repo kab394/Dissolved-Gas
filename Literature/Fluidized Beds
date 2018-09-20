@@ -1,0 +1,36 @@
+Bubble growth and rise in soft sediments
+
+Quotes and Summary of Information
+“The mechanics of uncemented soft sediments during bubble growth are not widely
+understood and no rheological model has found wide acceptance.”
+“The sand appears to be displaced spherically and thus to behave like a fluid or an elastic-plastic solid in response to the stress created by the bubble.”
+
+Bubbles in soft, sandy sediments grow spherically showing that sand acts fluidly in response to growth stresses
+Sand is displaced by the bubble, which is why it would be good to use in our reactor
+Bubbles in muddy substances and gelatin are more disk-shaped because they form from fractures in the sediment
+Bubble shape and size DOES depend on the medium
+
+This article is more about bubble formation and rise in muddy, soft sediments that fragment under stress, but it does have brief descriptions of the behavior of bubble formation in sand.
+
+Application to Research
+Bubble formation is a crucial part of the method we want to use to remove dissolved gas from influent water.  By creating a fluidized bed reactor using sand, we will be able to create spherical bubbles that rise up and out of the system.  Sand will be a useful medium for this experiment (as opposed to mud or gelatin) because it acts fluidly when under the stress of a bubble rising.
+
+
+Estimation of Bubble Diameter in Gaseous Fluidized Beds
+
+Quotes and Summary of Information
+Fluidized bed surface area has an effect on bubble size
+
+
+Equation: (Dbm-Db)/(Dbm-Db0)=e^(-kh/Dt)
+	
+		Db = diameter of bubble
+		Dbm = maximum attainable bubble diameter
+		Db0 = diameter of bubble at start
+		Dt = diameter of bed
+		h = height above distributor plate / elevation
+		k = tbd, (0.30 in this experiment)
+
+
+Application to Research
+We want the bubbles formed in our fluidized reactor to have a large enough diameter such that their buoyancy allows them to float to the top of the water.  In this article, the graphs show that as bubbles rise to the surface, their diameters become larger.  Seeing that the diameter of the fluidized bed reactor does have an effect on the size of the bubbles formed, we can use this information to find the maximum bubble size (Dt = 1 inch for our prototype).
